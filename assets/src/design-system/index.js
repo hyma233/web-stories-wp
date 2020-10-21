@@ -14,5 +14,6 @@
  * limitations under the License.
  */
 
+export * as Icons from './icons';
 export { THEME_CONSTANTS, theme, lightMode } from './theme';
 export { Display, Headline, Text } from './typography';
